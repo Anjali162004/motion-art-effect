@@ -43,8 +43,8 @@ This project is a pixel-perfect replica of the home page of the Motion Art Effec
 ## Setup Instructions
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/your-username/motion-art-effect-replica.git](https://github.com/Anjali162004/motion-art-effect)
-   cd motion-art-effect-replica
+   git clone https://github.com/Anjali162004/motion-art-effect
+   cd motion-art-effect
    ```
 
 2. **Install dependencies**:
